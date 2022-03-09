@@ -20,10 +20,18 @@
 </div>
 
 <br />
+### 📈 GitHub Activity Graph:
 
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
+
+| .                                                                                                                                       | .                                                                                                                         |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| ![Ramghimirecr7's github stats](https://github-readme-stats.vercel.app/api?username=Ramghimirecr7&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BEPb&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BEPb"></img>
 <div><p>My overview: </p></div>
 
-![TomasCostaK's github stats](https://github-readme-stats.vercel.app/api?username=Ramghimirecr7&show_icons=true)
+![RamGhimire's github stats](https://github-readme-stats.vercel.app/api?username=Ramghimirecr7&show_icons=true)
 <br />
 
 <!-- Optional Visitors badge: -->
