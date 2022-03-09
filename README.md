@@ -1,4 +1,6 @@
-### Hello World 👋 I am [Ram Ghimire](https://github.com/Ramghimirecr7)
+[Ram Ghimire](https://github.com/Ramghimirecr7)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Ram+Ghimire;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Blockchain+enthusiast+)](https://git.io/typing-svg)
 
 <a href="https://www.linkedin.com/in/ram-ghimire-4543a3174/">
   <img align="left" alt="TomasCostaK LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
