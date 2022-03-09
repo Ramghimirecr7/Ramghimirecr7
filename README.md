@@ -29,10 +29,7 @@
 | ![Ramghimirecr7's github stats](https://github-readme-stats.vercel.app/api?username=Ramghimirecr7&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramghimirecr7&theme=radical&layout=compact) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramghimirecr7"></img>
-<div><p>My overview: </p></div>
 
-![RamGhimire's github stats](https://github-readme-stats.vercel.app/api?username=Ramghimirecr7&show_icons=true)
-<br />
 
 <!-- Optional Visitors badge: -->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ramghimirecr7.Ramghimirecr7)
