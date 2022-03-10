@@ -102,5 +102,4 @@
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Ramghimirecr7.Ramghimirecr7" alt="visitors"/>
 </p>
-FROM [Ram Ghimire](https://github.com/Ramghimirecr7)
 <br />
