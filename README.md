@@ -1,6 +1,4 @@
-[Ram Ghimire](https://github.com/Ramghimirecr7)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Ram+Ghimire;+Welcome+to+My+Profile!;Over+2+years+of+programming+experience;Always+learning+new+things+;Blockchain+enthusiast+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Ram+Ghimire;+Welcome+to+My+Profile!;Over+a+year+of+programming+experience;Always+learning+new+things+;Blockchain+enthusiast+)](https://git.io/typing-svg)
 
 
 <div>
@@ -104,4 +102,5 @@
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Ramghimirecr7.Ramghimirecr7" alt="visitors"/>
 </p>
+FROM [Ram Ghimire](https://github.com/Ramghimirecr7)
 <br />
