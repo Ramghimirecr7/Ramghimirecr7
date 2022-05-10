@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Ram+Ghimire;+Welcome+to+My+Profile!;Over+two+year+of+programming+experience;Always+learning+new+things+;Blockchain+enthusiast+)](https://git.io/typing-svg)
 
-<a href="https://resume.github.io/?Ramghimirecr7">My Resume </a>
+<a href="https://resume.github.io/?Ramghimirecr7">My Resume </a> <br>
 <a href="https://skyline.github.com/Ramghimirecr7/2022"> 2022 Contribution (VR)</a>
 <div>
   
