@@ -8,7 +8,7 @@
 <br/>
 <p>
 
-- 🎯 Software Engineer based in Birmingham, Alabama.
+- 🎯 Software Engineer based in Alabama, USA.
 - 🔭 Interested in Cryptography and BlockChain.
 - 🌱 Currently learning to develop Smart Contracts and DAPPS.
 - 👯 If you have any projects you would like to collaborate, reach out to me.
@@ -17,7 +17,7 @@
 </div>
 
 <br />
-                                                                                                                                                                       𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸
+                                                                                                                                                                       **𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸**
 
 <table>
   <tbody>
