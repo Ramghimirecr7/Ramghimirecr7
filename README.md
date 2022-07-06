@@ -8,9 +8,9 @@
 <br/>
 <p>
 
-- 🎯 I’m a Software Engineer based in Birmingham, Alabama.
-- 🔭 I’m really interested in Cryptography and BlockChain.
-- 🌱 I’m currently learning to develop Smart Contracts and DAPPS.
+- 🎯 Software Engineer based in Birmingham, Alabama.
+- 🔭 Interested in Cryptography and BlockChain.
+- 🌱 Currently learning to develop Smart Contracts and DAPPS.
 - 👯 If you have any projects you would like to collaborate, reach out to me.
 
 </h4>
