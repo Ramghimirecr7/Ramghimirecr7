@@ -31,8 +31,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Solidity</strong>
@@ -56,8 +56,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <span>C#</span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
+        <span>React</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -74,8 +74,9 @@
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C++</strong></span><br><br><br>
+        <span><strong>C++/C#</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
       </td>
     </tr>
   </tbody>
