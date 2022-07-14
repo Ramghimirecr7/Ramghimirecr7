@@ -17,7 +17,7 @@
 </div>
 
 <br />
-                                                                                                                                                                       **𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸**
+                                                                                                                                                                       MY TECH STACK
 
 <table>
   <tbody>
@@ -93,7 +93,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramghimirecr7"></img>
 
-**📫 How to Reach me:**
+**📫 How to Find me:**
 
 <p align="left">
 <a href="https://twitter.com/RamGhim20205153" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
