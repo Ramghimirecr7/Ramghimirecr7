@@ -93,7 +93,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramghimirecr7"></img>
 
-**📫 How to Find me:**
+**📫 Contact me:**
 
 <p align="left">
 <a href="https://twitter.com/RamGhim20205153" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
