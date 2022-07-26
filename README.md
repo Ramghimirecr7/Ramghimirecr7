@@ -85,7 +85,7 @@
 
 ### 📈 GitHub Activity Graph:
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ramghimirecr7&hide_border=true&theme=redical)
+![Ram's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ramghimirecr7&hide_border=true&theme=redical)
 
 | .                                                                                                                                       | .                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -99,8 +99,10 @@
 <a href="https://twitter.com/RamGhim20205153" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/ram-ghimire-4543a3174/" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
 <a href="mailto:ramghimire2074@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-  
+
+<!---
 ![Profile views](https://gpvc.arturio.dev/Ramghimirecr7)
+-->
 
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Ramghimirecr7.Ramghimirecr7" alt="visitors"/>
