@@ -10,7 +10,6 @@
 
 - 🎯 Software Engineer based in Alabama, USA.
 - 🔭 Interested in Cryptography and BlockChain.
-- 🌱 Currently learning to develop Smart Contracts and DAPPS.
 - 👯 If you have any projects you would like to collaborate, reach out to me.
 
 </h4>
