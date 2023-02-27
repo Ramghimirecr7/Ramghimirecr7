@@ -73,8 +73,7 @@
         <img height="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>C++/C#</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
+        <span><strong>C#</strong></span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
       </td>
     </tr>
