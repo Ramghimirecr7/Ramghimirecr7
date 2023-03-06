@@ -81,10 +81,6 @@
 </table>
 <hr>
 
-### 📈 GitHub Activity Graph:
-
-![Ram's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Ramghimirecr7&hide_border=true&theme=redical)
-
 | .                                                                                                                                       | .                                                                                                                         |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | ![Ramghimirecr7's github stats](https://github-readme-stats.vercel.app/api?username=Ramghimirecr7&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramghimirecr7&theme=radical&layout=compact) |
