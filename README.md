@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Ram+Ghimire;+Welcome+to+My+Profile!;Over+two+year+of+professional+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hello+World+👋,+I+am+Ram+Ghimire;+Welcome+to+My+Profile!; Over+two+year+of+professional+programming+experience;Always+learning+new+things+;)](https://git.io/typing-svg)
 
 <a href="http://ramghimirecr7.github.io/">My Github Portfolio </a> <br>
 <a href="https://resume.github.io/?Ramghimirecr7">Github Resume </a> <br>
